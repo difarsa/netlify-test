@@ -1,10 +1,7 @@
----
 items:
-  - text: Menu One
-    url: "#"
-  - text: Menu Two
-    url: "#"
-  - text: Menu Three
-    url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: Test 1
+    url: google.com
+  - text: Test 2
+    url: google.com
+  - text: Test 3
+    url: google.com
